@@ -31,6 +31,9 @@ List at least **four key concepts or skills** you learned during the Git crash c
 - Screenshot showing your milestone(s) and the issues linked to it.
 
 ![All Milestones](Screenshots/image.png)
+
+---
+
 ![Example of issues under the portfolio](Screenshots/image2.png)
 
 ### B. Project Board
@@ -45,10 +48,19 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
 ![Pull Request](Screenshots/image5.png)
+
+---
+
 ![Issue](Screenshots/image6.png)
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
 ![Merge Conflict](Screenshots/image7.png)
+
+---
+
 ![Resolving](Screenshots/image8.png)
+
+---
+
 ![Resolved](Screenshots/image9.png)
