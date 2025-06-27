@@ -51,4 +51,4 @@ List at least **four key concepts or skills** you learned during the Git crash c
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
 ![Merge Conflict](Screenshots/image7.png)
 ![Resolving](Screenshots/image8.png)
-![Resolved](Screenshots/image8.png)
+![Resolved](Screenshots/image9.png)
