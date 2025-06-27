@@ -2,51 +2,53 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Philip Miroga
+- **GitHub Username**:Philip-O-M
+- **Email**:philip.miroga@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+(https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-Philip-O-M/)
 
 ## 3. Learnings from the Git Crash Program
 
 List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
 
-Example format:
 
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
 
+- **Commit Messages**: They taught me how to write clear and descriptive commit messages, making it easier to track changes.
+
+- **Merging**: It showed me how to combine changes from different branches safely. 
+
+- **Creating Milestones**: It helped me break the project into phases with clear goals. 
+
+- **Using Labels and Issues**: Enabled better project management by categorizing tasks and bugs. Issues helped me split my milestones effectively while labels helped me manage my issues well.
 ## 4. Screenshots of Key GitHub Features
-
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
 
 ### A. Milestones and Issues
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
+![All Milestones](Screenshots/image.png)
+![Example of issues under the portfolio](Screenshots/image2.png)
+
 ### B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
-
+![ProjectBoard](Screenshots/image3.png)
 ### C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
-
+![Branches](Screenshots/image4.png)
 ### D. Pull Requests
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
-
+![Pull Request](Screenshots/image5.png)
+![Issue](Screenshots/image6.png)
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![Merge Conflict](Screenshots/image7.png)
+![Resolving](Screenshots/image8.png)
+![Resolved](Screenshots/image8.png)
