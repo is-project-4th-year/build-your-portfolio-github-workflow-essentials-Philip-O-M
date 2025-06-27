@@ -30,7 +30,7 @@ List at least **four key concepts or skills** you learned during the Git crash c
 
 - Screenshot showing your milestone(s) and the issues linked to it.
 
-![All Milestones](Screenshots\image.png)
+![All Milestones](Screenshots/image.png)
 ![Example of issues under the portfolio](Screenshots/image2.png)
 
 ### B. Project Board
